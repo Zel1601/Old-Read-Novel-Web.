@@ -1,0 +1,76 @@
+/* CSS cho Header */
+.header-menu {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  font-family: "Times New Roman", Times, serif;
+  background-color: azure;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+
+.item {
+  padding: 10px;
+  margin-left: 75px;
+  color:black
+}
+
+.item3{
+  margin-left: 50px;
+  margin-top: 20px;
+
+}
+
+
+.item2 {
+  margin-left: 100px;
+}
+
+.item1 {
+  padding: 10px;
+  margin-left: 100px;
+}
+
+.item img {
+  width: 100px;
+  height: 60px;
+  margin-left: -75px;
+}
+
+.dropdown-toggle {
+  background-color: azure !important;
+  border: none !important;
+  color: #333 !important;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.dropdown-menu {
+  background-color: azure !important;
+  border: none !important;
+}
+
+.dropdown-item {
+  color: #333 !important;
+  display: block;
+  padding: 10px 20px;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background-color: #ccc !important;
+}
+
+input {
+  width: 180px;
+  height: 36px;
+  font-weight: bold;
+}
+button {
+  height: 39px;
+  background-color: white;
+  width: auto;
+  font-weight: bold;
+}

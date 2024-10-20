@@ -1,0 +1,16 @@
+.profile-page {
+  padding: 20px;
+}
+
+.profile-page h2 {
+  margin-bottom: 20px;
+}
+
+.profile-page p {
+  margin: 10px 0;
+}
+
+.profile-page button {
+  margin-top: 20px;
+  padding: 10px 20px;
+}
